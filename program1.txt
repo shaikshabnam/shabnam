@@ -2,6 +2,10 @@ Class{
 
 	public void hii(){
 	System.out.println("hello guys!!!");
+<<<<<<< HEAD
 	System.out.println("hii batch mates");
+=======
+	System.out.println("---welcome to test yantra");
+>>>>>>> 17d67e2ce10956d748e27e00d19ff587d987b18f
 	}
 }
